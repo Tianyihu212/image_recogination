@@ -5,4 +5,4 @@ The annotation data is stored in the xml file, in which x.xml stores the json te
 
 
 
-The data set is divided into three parts: training set (5000 pictures), preliminary test set (1000 pictures) and final test set (2000 pictures). According to the schedule and different stages, the test set will only publish images but not label data. .
+The data set is divided into three parts: training set (5000 images), preliminary test set (1000 images) and final test set (2000 images). According to the schedule and different stages, the test set will only publish images but not label data. .
