@@ -1,2 +1,0 @@
-Each set of data includes a remote sensing image and annotated data corresponding to the remote sensing image, including the rotating bounding box of the object in the remote sensing image and its object type. 
-The object types include: Airplane, Ship, Vehicle, Basketball Court, Tennis Court, Football field, Baseball field, Intersection, Roundabout, Bridge.
